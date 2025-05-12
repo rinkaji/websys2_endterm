@@ -1,4 +1,4 @@
-@extends('layout.master')
+@extends('layout.logged_out')
 
 @section('content')
 <form action="" method="post">
